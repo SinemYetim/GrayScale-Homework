@@ -1,0 +1,13 @@
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\bin\Debug\RGBtoGrayScale.exe.config
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\bin\Debug\RGBtoGrayScale.exe
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\bin\Debug\RGBtoGrayScale.pdb
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\obj\Debug\RGBtoGrayScale.csprojAssemblyReference.cache
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\obj\Debug\RGBtoGrayScale.Form1.resources
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\obj\Debug\RGBtoGrayScale.Form2.resources
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\obj\Debug\RGBtoGrayScale.Form4.resources
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\obj\Debug\RGBtoGrayScale.Properties.Resources.resources
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\obj\Debug\RGBtoGrayScale.csproj.GenerateResource.cache
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\obj\Debug\RGBtoGrayScale.csproj.CoreCompileInputs.cache
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\obj\Debug\RGBtoGrayScale.exe
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\obj\Debug\RGBtoGrayScale.pdb
+C:\Users\Sinem\Desktop\RGBtoGrayScale\RGBtoGrayScale\obj\Debug\RGBtoGrayScale.Form3.resources
